@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+body{
+    max-width: 900px;
+    margin: auto;
+}
+
+/* end of consistent design info */
+
+ul {    
+    list-style-type: disc;
+    margin-left: 30px;
+}
+
+p, li:not(nav li){
+    margin: 10px 0;
+}
+
+h3{
+    margin-top: 25px;
+}

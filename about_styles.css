@@ -1,0 +1,33 @@
+
+/* reset */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+body{
+    max-width: 900px;
+    margin: auto;
+}
+
+p{
+    margin: 50px 0px;
+    font-size: 22px;
+    line-height: 1.5;
+}
+
+#contact_info{
+    display:flex;
+    margin: 50px 0px;
+
+    font-size: 20px;
+    justify-content: start;
+    gap: 20px;
+}
+
+.social, .social:hover, .social:visited, .social:active,.social:link {
+    color: inherit;
+    text-decoration: none;
+   }    

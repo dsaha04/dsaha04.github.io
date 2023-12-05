@@ -1,0 +1,63 @@
+header {
+    margin: 100px 0px 0px 0px;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Lato', sans-serif;
+}
+
+@media (max-width:500px) {
+    header>nav>ul {
+        flex-direction: column;
+        align-items:end;
+        gap: 10px;
+        margin-top: 5px;
+    }
+}
+
+header #name {
+    font-size: 35px;
+}
+
+header :is(a, a:hover, a:visited, a:active, a:link) {
+    font-size: 20px;
+    text-decoration: none;
+    color: inherit
+}
+
+header ul {
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+    align-items: center;
+    height: 100%;
+}
+
+#subpage_title {
+    margin: 40px auto 40px auto;
+}
+
+/* end of consistent design info */
+
+body{
+    padding: 0 20px;
+}
+
+:root{
+    background-color:   #fcf6f0;
+}
+
+/* header animation*/
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        transform: 100%;
+    }
+}
+
+#content {
+    /* This section calls the slideInFromLeft animation we defined above */
+    animation: 1s ease-out 0s 1 fadeIn;
+}
