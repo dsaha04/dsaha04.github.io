@@ -6,7 +6,7 @@ subtitle: (Just) Graduated at Princeton University '24
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: dwip.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
