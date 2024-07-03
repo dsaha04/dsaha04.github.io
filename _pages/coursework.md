@@ -3,7 +3,7 @@ layout: page
 permalink: /coursework/
 title: Coursework
 description: List of coursework I've taken at Princeton.
-nav: true
+nav: false
 nav_order: 4
 ---
 
