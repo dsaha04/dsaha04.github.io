@@ -1,12 +1,65 @@
 ---
 layout: page
+title: Teaching
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses that I have served as a preceptor, teaching assistant, or grader for and relevant materials.
 nav: true
-nav_order: 6
+nav_order: 3
+display_categories: [princeton, columbia]
+horizontal: false
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<!-- pages/teaching.md -->
+<div class="projects">
+{% if site.enable_teaching_categories and page.display_categories %}
+  <!-- Display categorized teaching -->
+  {% for category in page.display_categories %}
+  <a id="{{ category }}" href=".#{{ category }}">
+    <h2 class="category">{{ category }}</h2>
+  </a>
+  {% assign categorized_teaching = site.teaching | where: "category", category %}
+  {% assign sorted_teaching = categorized_teaching | sort: "importance" %}
+  <!-- Generate cards for each teaching -->
+  {% if page.horizontal %}
+  <div class="container">
+    <div class="row row-cols-1 row-cols-md-2">
+    {% for teaching in sorted_teaching %}
+      {% include teaching_horizontal.liquid %}
+    {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for teaching in sorted_teaching %}
+      {% include teaching.liquid %}
+    {% endfor %}
+  </div>
+  {% endif %}
+  {% endfor %}
 
-Organize your courses by years, topics, or universities, however you like!
+{% else %}
+
+<!-- Display teaching without categories -->
+
+{% assign sorted_teaching = site.teaching | sort: "importance" %}
+
+  <!-- Generate cards for each teaching -->
+
+{% if page.horizontal %}
+
+  <div class="container">
+    <div class="row row-cols-1 row-cols-md-2">
+    {% for teaching in sorted_teaching %}
+      {% include teaching_horizontal.liquid %}
+    {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for teaching in sorted_teaching %}
+      {% include teaching.liquid %}
+    {% endfor %}
+  </div>
+  {% endif %}
+{% endif %}
+</div>
