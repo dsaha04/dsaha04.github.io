@@ -39,14 +39,25 @@
             <a href="{{ content.url }}">{{ content.studyType }}</a>
           </h6>
           <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ content.institution }}</h6>
-          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.area }}</h6>
-          <ul class="items">
-            {% for item in content.courses %}
-              <li>
-                <span class="item">{{ item }}</span>
-              </li>
-            {% endfor %}
-          </ul>
+          {% if content.concentration %}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem"><span style="font-style: italic">Concentration:</span> {{ content.concentration }}</h6>
+          {% endif %}
+          {% if content.specialization %}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem"><span style="font-style: italic">Specialization:</span> {{ content.specialization }}</h6>
+          {% endif %}
+          {% if content.certificates %}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem"><span style="font-style: italic">Certificates:</span> 
+              {% for certificate in content.certificates %}
+                {{ certificate }}{% if forloop.last == false %}, {% endif %}
+              {% endfor %}
+            </h6>
+          {% endif %}
+          {% if content.score %}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem"><span style="font-style: italic">GPA:</span> {{ content.score }}</h6>
+          {% endif %}
+          {% if content.majorGPA %}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem"><span style="font-style: italic">Major GPA:</span> {{ content.majorGPA }}</h6>
+          {% endif %}
         </div>
       </div>
     </li>
