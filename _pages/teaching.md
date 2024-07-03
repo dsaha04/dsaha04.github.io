@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching/
 description: Courses that I have served as a preceptor, teaching assistant, or grader for and relevant materials.
-nav: true
+nav: false
 nav_order: 3
 display_categories: [princeton, columbia]
 horizontal: false

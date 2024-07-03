@@ -23,9 +23,8 @@ math. There, I received the <a href="https://www.cs.princeton.edu/news/class-day
 
 In the past a lot of my work can be bucketed into <b>Algorithmic Decision Making with Limited Information</b>. Broadly, speaking we have an idea of what may occur based off of which we make decisions that impact our happiness. Specifically, my work sat at the intersection of <i>online</i> and <i>stochastic</i> optimization in which agents arriving in some arbitrary order purchase items and we hope to set prices based off of <i>distributional knowledge</i> to do well in comparison to an all knowing prophet. More recently, I was looking at <a href="https://arxiv.org/abs/2312.06837">Spectral State Space Models</a> which is one of many recent developments within sequence prediction while incorporating long term dependencies.
 
-My current research interests sit at the intersection of Algorithm Design, High-Dimensional Probability, and Statistical Machine Learning. Some of my favorite courses at Princeton were <a href="https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=008809">Stochastic Calculus</a>, <a href="https://www.cs.princeton.edu/~hy2/teaching/fall22-cos521/index.html">Advanced Algorithm Design</a>, and <a href="https://fan.princeton.edu/fan/classes/525.html">Statistical Foundations of Data Science</a>.
+My current research interests sit at the intersection of Algorithm Design, High-Dimensional Probability, and Statistical Machine Learning. Some of my favorite courses at Princeton were <a href="https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=008809">Stochastic Calculus</a>, <a href="https://www.cs.princeton.edu/~hy2/teaching/fall22-cos521/index.html">Advanced Algorithm Design</a>, and <a href="https://fan.princeton.edu/fan/classes/525.html">Statistical Foundations of Data Science</a>. Here is my <a target="_self" href="https://dsaha04.github.io/cv/">CV</a>.
 
 
-Feel free to reach out to talk through
-my email at dsaha (at) princeton (dot) edu.
+Feel free to reach out to talk through my email at dsaha (at) princeton (dot) edu. 
 

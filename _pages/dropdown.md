@@ -1,16 +1,16 @@
 ---
 layout: page
-title: submenus
+title: Experience
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: Curriculum Vitae
+    permalink: /cv/
   - title: divider
-  - title: projects
-    permalink: /projects/
+  - title: Teaching
+    permalink: /teaching/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Coursework
+    permalink: /coursework/
 ---
