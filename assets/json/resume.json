@@ -12,7 +12,16 @@
       "region": "New York"
     }
   },
-  "education": [
+  "education": [{
+    "institution": "Doctor of Philosophy",
+    "location": "New York City, NY",
+    "url": "https://www.columbia.edu/",
+    "studyType": "Columbia University",
+    "startDate": "Sep 2024",
+    "endDate": "May 2028",
+    "concentration": "Industrial Engineering and Operations Research",
+    "specialization": "Ph.D. Specialization in Data Science"
+  },
       {
         "institution": "Bachelor of Science in Engineering",
         "location": "Princeton, NJ",
