@@ -14,11 +14,11 @@ horizontal: false
 <h4>Theory</h4>
 <ul>
 <li> 
-        <a href="https://dsaha04.github.io/assets/pdfs/written_final_report.pdf">Senior Thesis: Analysis of Prophet Inequalities for Subadditive Combinatorial Auctions</a> 
+        <a href="https://dsaha04.github.io/assets/pdf/written_final_report.pdf">Senior Thesis: Analysis of Prophet Inequalities for Subadditive Combinatorial Auctions</a> 
         <span style="font-size: 10pt; font-style: italic;">Advised by: Matt Weinberg</span>
 </li>
 <li> 
-        <a href="https://dsaha04.github.io/assets/pdfs/ORF_550_Final_Project.pdf">Convergence of the CAVI algorithm for Log-Concave Measures</a> 
+        <a href="https://dsaha04.github.io/assets/pdf/ORF_550_Final_Project.pdf">Convergence of the CAVI algorithm for Log-Concave Measures</a> 
         <span style="font-size: 10pt; font-style: italic;">Advised by: Ramon van Handel</span>
 </li>
 <li>
@@ -31,16 +31,16 @@ horizontal: false
 <h4>Machine Learning</h4>
 <ul>
 <li>
-    <a href="https://dsaha04.github.io/assets/pdfs/Intrinsic_Reward_Shaping.pdf">A Simple Framework for Intrinsic Reward-Shaping for RL using LLM Feedback</a>
+    <a href="https://dsaha04.github.io/assets/pdf/Intrinsic_Reward_Shaping.pdf">A Simple Framework for Intrinsic Reward-Shaping for RL using LLM Feedback</a>
     <a href="https://github.com/alexzhang13/reward-shaping-rl"><i class="fa fa-github" style="font-size:18px"></i></a>
     <span style="font-size: 10pt; font-style: italic;">Advised by: Sanjeev Arora</span>
 </li>
 <li> 
-        <a href="https://dsaha04.github.io/assets/pdfs/COS_484_Final_Paper.pdf">Robustification of Natural Language Proof Generation with Verifier Guided Search</a> <a href="https://github.com/dsaha04/NLProof_Final"><i class="fa fa-github" style="font-size:18px"></i></a>
+        <a href="https://dsaha04.github.io/assets/pdf/COS_484_Final_Paper.pdf">Robustification of Natural Language Proof Generation with Verifier Guided Search</a> <a href="https://github.com/dsaha04/NLProof_Final"><i class="fa fa-github" style="font-size:18px"></i></a>
         <span style="font-size: 10pt; font-style: italic;">Advised by: Danqi Chen</span>
 </li>
 <li> 
-        <a href="https://dsaha04.github.io/assets/pdfs/LeCaR.pdf">LeCaR Caching with Multi Armed Bandits</a> <a href="https://github.com/dsaha04/cos316finalproject"><i class="fa fa-github" style="font-size:18px"></i></a>
+        <a href="https://dsaha04.github.io/assets/pdf/LeCaR.pdf">LeCaR Caching with Multi Armed Bandits</a> <a href="https://github.com/dsaha04/cos316finalproject"><i class="fa fa-github" style="font-size:18px"></i></a>
         <span style="font-size: 10pt; font-style: italic;">Advised by: Amit Levy</span>
 </li>
 
