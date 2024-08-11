@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: (Just) Graduated at Princeton University '24
+subtitle: 1st Year PhD Student @ Columbia IEOR
 
 profile:
   align: right
@@ -18,13 +18,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hey! I recently graduated from Princeton University studying computer science and
-math. There, I received the <a href="https://www.cs.princeton.edu/news/class-day-department-celebrates-accomplishments-graduates">highest honors</a> in Computer Science, which is the CS department's highest academic honor. I was also awarded the Outstanding Student Teaching award for my teaching assistantships in a variety of courses throughout my tenure at Princeton CS. There I was fortunate to be advised by <b><a href="https://www.cs.princeton.edu/~smattw/">Matt Weinberg</a></b> for our work on prophet inequalities for subadditive combinatorial auctions, and <b><a href="https://www.ehazan.com/">Elad Hazan</a></b> for our work on spectral state space models.
+Hey! I recently graduated <a href="https://www.cs.princeton.edu/news/class-day-department-celebrates-accomplishments-graduates">Summa Cum Laude</a> with a Bachelor of Science in Engineering from Princeton University studying Computer Science and Math. I was also awarded the Outstanding Student Teaching award for my teaching assistantships in a variety of courses. Here, I was fortunate to be advised by <b><a href="https://www.cs.princeton.edu/~smattw/">Matt Weinberg</a></b> for our work on prophet inequalities for subadditive combinatorial auctions.
 
-In the past a lot of my work can be bucketed into <b>Algorithmic Decision Making with Limited Information</b>. Broadly, speaking we have an idea of what may occur based off of which we make decisions that impact our happiness. Specifically, my work sat at the intersection of <i>online</i> and <i>stochastic</i> optimization in which agents arriving in some arbitrary order purchase items and we hope to set prices based off of <i>distributional knowledge</i> to do well in comparison to an all knowing prophet. More recently, I was looking at <a href="https://arxiv.org/abs/2312.06837">Spectral State Space Models</a> which is one of many recent developments within sequence prediction while incorporating long term dependencies.
+<!-- , and <b><a href="https://www.ehazan.com/">Elad Hazan</a></b> for our work on spectral state space models. -->
 
-My current research interests sit at the intersection of Algorithm Design, High-Dimensional Probability, and Statistical Machine Learning. Some of my favorite courses at Princeton were <a href="https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=008809">Stochastic Calculus</a>, <a href="https://www.cs.princeton.edu/~hy2/teaching/fall22-cos521/index.html">Advanced Algorithm Design</a>, and <a href="https://fan.princeton.edu/fan/classes/525.html">Statistical Foundations of Data Science</a>. Here is my <a target="_self" href="https://dsaha04.github.io/cv/">CV</a>.
+<!-- In the past, a lot of my work can be categorized under <b>Algorithmic Decision Making with Limited Information</b>. Broadly speaking, we have an idea of what may occur based off of which we make decisions that impact our happiness. Specifically, my work lay at the intersection of <i>online</i> and <i>stochastic</i> optimization in which agents arriving in some arbitrary order purchase items and we set prices based off of <i>distributional knowledge</i> to do well compared to an all knowing prophet. More recently, I was looking at <a href="https://arxiv.org/abs/2312.06837">Spectral State Space Models</a> which is one of many recent developments within sequence prediction while incorporating long term dependencies. -->
 
+My current research interests lay at the intersection of Algorithm Design, High-Dimensional Probability, and Statistical Machine Learning. Some of my favorite courses at Princeton were <a href="https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=008809">Stochastic Calculus</a>, <a href="https://www.cs.princeton.edu/~hy2/teaching/fall22-cos521/index.html">Advanced Algorithm Design</a>, and <a href="https://fan.princeton.edu/fan/classes/525.html">Statistical Foundations of Data Science</a>. Here is my <a target="_self" href="https://dsaha04.github.io/cv/">CV</a>.
 
-Feel free to reach out to talk through my email at dsaha (at) princeton (dot) edu. 
-
+Feel free to reach out at ds4386 (at) columbia (dot) edu.
