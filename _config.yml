@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Dwaipayan
 middle_name:
 last_name: Saha
-email: dsaha@princeton.edu
+email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   
@@ -128,7 +128,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Dwip's Deli 🥖 # blog_name will be displayed in your blog page
+blog_name: Dwip's Blog # blog_name will be displayed in your blog page
 blog_description: This content serves as a resource for learning :)
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
