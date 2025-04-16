@@ -8,9 +8,6 @@ children:
   - title: Curriculum Vitae
     permalink: /cv/
   - title: divider
-  - title: Teaching
-    permalink: /teaching/
-  - title: divider
   - title: Coursework
     permalink: /coursework/
 ---
