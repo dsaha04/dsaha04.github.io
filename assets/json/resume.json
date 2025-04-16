@@ -44,7 +44,7 @@
       "position": "Research Intern",
       "startDate": "Jun 2024",
       "endDate": "Sep 2024",
-      "highlights": ["In Progress"]
+      "highlights": ["Developed compressive memory techniques and efficient approximations for full attention matrices, enabling the handling of sequences up to length 5000 for behaviorally learned user embeddings", "Trained encoder models with custom attention modules using PyTorch DDP and Dask for scalability and designed embedding evaluation techniques"]
     },
     {
       "name": "Goldman Sachs: Quantitative Investment Strategies",
