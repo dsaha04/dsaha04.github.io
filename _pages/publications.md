@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications & Pre-Prints
-description: Publications by categories in reversed chronological order. * denotes equal contribution.
+description: Publications by categories in reversed chronological order. * denotes equal contribution. + means that authors are listed in alphabetical order.
 nav: true
 nav_order: 2
 ---
