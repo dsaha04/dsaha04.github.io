@@ -100,7 +100,11 @@
   ],
   "references": [
     {
-      "name": "Professor Matt Weinberg",
+      "name": "Matt Weinberg",
+      "icon": "fa-solid fa-laptop"
+    },
+    {
+      "name": "Anish Agarwal",
       "icon": "fa-solid fa-laptop"
     }
   ]

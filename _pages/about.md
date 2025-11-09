@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 2nd Year PhD Student @ Columbia IEOR
+subtitle: 2nd Year PhD Student @ Columbia
 
 profile:
   align: right
