@@ -22,7 +22,7 @@ Hey! I primarily work on efficient policy optimization via reinforcement learnin
 
 <p>
 
-I am a PhD student at <a href="https://ieor.columbia.edu">Columbia University</a>, advised by <a href="https://sites.google.com/view/anishagarwal/home">Anish Agarwal</a>. 
+I am a PhD student at <a href="https://ieor.columbia.edu">Columbia University</a> advised by <a href="https://sites.google.com/view/anishagarwal/home">Anish Agarwal</a>. 
 
 <p>
 
