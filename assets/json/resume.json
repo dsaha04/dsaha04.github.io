@@ -18,8 +18,9 @@
     "studyType": "Columbia University",
     "startDate": "Sep 2024",
     "endDate": "Present",
-    "concentration": "Industrial Engineering and Operations Research",
-    "specialization": "Ph.D. Specialization in Data Science"
+    "score": "4.049/4.000",
+    "concentration": "Operations Research",
+    "specialization": "Machine Learning & Statistics"
   },
       {
         "institution": "Bachelor of Science in Engineering",
@@ -39,6 +40,11 @@
       }
     ],
   "work": [
+    {
+      "name": "Headlands Technologies",
+      "position": "Quantitative Research Intern",
+      "highlights": ["Deep Learning Alpha Research"]
+    },
     {
       "name": "Snap Inc: User Modelling and Personalization",
       "position": "Research Intern",
