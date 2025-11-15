@@ -6,7 +6,7 @@ subtitle: 2nd Year PhD Student @ Columbia, Princeton CS '24
 
 profile:
   align: right
-  image: dwip.jpg
+  image: dwip_new.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
@@ -26,7 +26,7 @@ I am a PhD student at <a href="https://ieor.columbia.edu">Columbia University</a
 
 <p>
 
-Before that, I graduated <a href="https://www.cs.princeton.edu/news/class-day-department-celebrates-accomplishments-graduates">Summa Cum Laude</a> from Princeton University with a B.S.E. in Computer Science and Math. Here, I was fortunate to be advised by <a href="https://www.cs.princeton.edu/~smattw/">Matt Weinberg</a>. I received the department’s Outstanding Student Teaching Award for my TA contributions across several undergraduate and graduate courses.
+Before that, I graduated <a href="https://www.cs.princeton.edu/news/class-day-department-celebrates-accomplishments-graduates">Summa Cum Laude</a> from <a href="https://www.cs.princeton.edu"> Princeton University</a> with a B.S.E. in Computer Science and Math. Here, I was fortunate to be advised by <a href="https://www.cs.princeton.edu/~smattw/">Matt Weinberg</a>. I received the department’s Outstanding Student Teaching Award for my TA contributions across several undergraduate and graduate courses.
 
 <p>
 
