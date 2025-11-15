@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hey! I primarily work on efficient policy optimization via reinforcement learning, foundational models for alternative data modalities (tabular, time-series, etc), and diffusion models. Prior to this, I did some work at the intersection of high-dimensional statistics and econometrics. 
+Hey! I primarily work on efficient policy optimization via reinforcement learning, foundational models for alternative data modalities (tabular, time-series, etc), and diffusion models. Prior to this, I did some work at the intersection of high dimensional statistics and econometrics. 
 
 <p>
 
