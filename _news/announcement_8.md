@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Finished my internship at <b><a href="https://www.hudsonrivertrading.com/machine-learning/">HRT AI Labs (HAIL)</a></b>! 
+Finished my internship at <b><a href="https://www.hudsonrivertrading.com/machine-learning/">Hudson River Trading</a></b>! 
