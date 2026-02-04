@@ -36,7 +36,7 @@ Before that, I graduated <a href="https://www.cs.princeton.edu/news/class-day-de
 
 <!-- In the past, a lot of my work can be categorized under <b>Algorithmic Decision Making with Limited Information</b>. Broadly speaking, we have an idea of what may occur based off of which we make decisions that impact our happiness. Specifically, my work lay at the intersection of <i>online</i> and <i>stochastic</i> optimization in which agents arriving in some arbitrary order purchase items and we set prices based off of <i>distributional knowledge</i> to do well compared to an all knowing prophet. More recently, I was looking at <a href="https://arxiv.org/abs/2312.06837">Spectral State Space Models</a> which is one of many recent developments within sequence prediction while incorporating long term dependencies. -->
 
-Two of my favorite courses at Princeton were <a href="https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=008809">Stochastic Calculus</a> and <a href="https://www.cs.princeton.edu/~hy2/teaching/fall22-cos521/index.html">Advanced Algorithm Design</a>. A sizeable chunk of my time at here was spent thinking about theoretical computer science and probability theory all of which I still love chatting about! 
+Two of my favorite courses at Princeton were <a href="https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=008809">Stochastic Calculus</a> and <a href="https://www.cs.princeton.edu/~hy2/teaching/fall22-cos521/index.html">Advanced Algorithm Design</a>. A sizeable chunk of my time here was spent thinking about theoretical computer science and probability theory all of which I still love chatting about! 
 
 <p>
 
