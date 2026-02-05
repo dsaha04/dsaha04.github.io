@@ -43,30 +43,36 @@
     {
       "name": "Hudson River Trading",
       "position": "Algorithm Developer Intern",
-      "startDate": "Jan 2026",
-      "endDate": "Jan 2026",
+      "startDate": "2026-01",
+      "endDate": "2026-01",
       "highlights": ["AI Research"]
     },
     {
       "name": "Headlands Technologies",
       "position": "Quantitative Research Intern",
-      "startDate": "Sep 2025",
-      "endDate": "Dec 2025",
+      "startDate": "2025-09",
+      "endDate": "2025-12",
       "highlights": ["Deep Learning Alpha Research"]
     },
     {
       "name": "Snap Inc: User Modelling and Personalization",
       "position": "Research Intern",
-      "startDate": "Jun 2024",
-      "endDate": "Sep 2024",
-      "highlights": ["Developed compressive memory techniques and efficient approximations for full attention matrices, enabling the handling of sequences up to length 5000 for behaviorally learned user embeddings", "Trained encoder models with custom attention modules using PyTorch DDP and Dask for scalability and designed embedding evaluation techniques"]
+      "startDate": "2024-06",
+      "endDate": "2024-09",
+      "highlights": [
+        "Developed compressive memory techniques and efficient approximations for full attention matrices, enabling the handling of sequences up to length 5000 for behaviorally learned user embeddings",
+        "Trained encoder models with custom attention modules using PyTorch DDP and Dask for scalability and designed embedding evaluation techniques"
+      ]
     },
     {
       "name": "Goldman Sachs: Quantitative Investment Strategies",
       "position": "Quantitative Research Intern",
-      "startDate": "Jun 2023",
-      "endDate": "Aug 2023",
-      "highlights": ["Analyzed 15TB proprietary dataset efficiently using Dask and distributed computation across multiple computing clusters",  "Developed prediction models using machine learning and statistical analysis, conducted backtesting for portfolio optimization"]
+      "startDate": "2023-06",
+      "endDate": "2023-08",
+      "highlights": [
+        "Analyzed 15TB proprietary dataset efficiently using Dask and distributed computation across multiple computing clusters",
+        "Developed prediction models using machine learning and statistical analysis, conducted backtesting for portfolio optimization"
+      ]
     }
   ],
   "awards": [
