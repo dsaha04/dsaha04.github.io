@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 2nd Year PhD Student @ Columbia, Princeton CS '24
+subtitle: 3rd Year PhD Student @ Columbia, Princeton CS '24
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hey! I primarily work on efficient policy optimization via reinforcement learning, foundational models for alternative data modalities (tabular, time-series, etc), and diffusion models. Prior to this, I did some work at the intersection of high-dimensional statistics and econometrics. 
+Hey! I primarily work on foundational models for alternative data modalities (tabular, matrix, time-series, etc), efficient policy optimization via reinforcement learning, and algorithms that leverage underlying data structure. Prior to this, I did some work at the intersection of high-dimensional statistics and econometrics. 
 
 <p>
 
